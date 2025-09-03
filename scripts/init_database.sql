@@ -38,8 +38,6 @@ CREATE SCHEMA IF NOT EXISTS silver;
 CREATE SCHEMA IF NOT EXISTS gold;
 
 
-);
-
 -- =============================================================
 -- Script completed
 -- =============================================================
