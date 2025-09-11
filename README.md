@@ -57,4 +57,11 @@ data-warehouse-project/
 └── LICENSE  # License information for the repository
 ```
 ---
+## 👨‍💻 About Me
 
+Hi! I'm Yeni Andrea Ramirez, a data enthusiast passionate about SQL, data engineering, and analytics.
+This project is part of my portfolio to showcase hands-on skills in building data solutions.
+
+📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeni-andrea-ramirez-tellez-crm/)
