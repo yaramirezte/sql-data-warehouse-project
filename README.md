@@ -57,6 +57,41 @@ data-warehouse-project/
 └── LICENSE  # License information for the repository
 ```
 ---
+<!-- 
+## 🚀 Project Requirements
+Building the Data Warehouse
+### Goal
+
+Create a modern SQL Server data warehouse to consolidate sales data and enable analytical reporting for better decision-making.
+
+### Specifications
+
+- **Data Sources:** Import data from two source systems (ERP and CRM) as CSV files.
+
+- **Data Quality**: Clean and resolve data issues before analysis.
+
+- **Integration**: Merge both sources into a single, analytics-friendly model.
+
+- **Scope**: Work only with the latest dataset; no historical tracking required.
+
+- **Documentation**: Provide clear documentation of the data model for business and analytics teams.
+
+---
+
+### BI: Analytics & Reporting (Data Analysis)
+#### Goal
+
+Generate SQL-based insights on:
+- **Customer Behavior**
+
+- **Product Performance**
+
+- **Sales Trends**
+
+These insights provide stakeholders with key business metrics for informed decision-making.
+-->
+
+
 ## 👨‍💻 About Me
 
 Hi! I'm Yeni Andrea Ramirez, a data enthusiast passionate about SQL, data engineering, and analytics.
