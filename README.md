@@ -18,6 +18,29 @@ This project follows a multi-layered architecture inspired by the **Medallion Ar
 ![Data Architecture](docs/Architecture.png)
 
 ---
+## 📊 Data Flow
+
+The following diagram illustrates how data moves from source systems (ERP & CRM) into the warehouse through the Bronze, Silver, and Gold layers.  
+
+![Data Flow Diagram](docs/Data_Flow_Diagram.png)
+
+---
+
+## 🗂️ Integration Model
+
+This diagram shows how ERP and CRM data were integrated into a unified model for analytics.  
+
+![Integration Model](docs/Integration_Model.png)
+
+---
+
+## ⭐ Data Mart
+
+A **star schema** design to optimize reporting and analytical queries.  
+
+![Data Mart](docs/Data_Mart.png)
+
+---
 
 ## 📖 Project Overview
 
@@ -32,7 +55,7 @@ The project involves:
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (pgAdmin 4 / PostgreSQL )**  
+- **PostgreSQL (pgAdmin 4)**    
 - **Draw.io** for architecture and data flow diagrams  
 - **Git & GitHub** for version control  
 
