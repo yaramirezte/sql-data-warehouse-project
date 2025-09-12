@@ -58,12 +58,12 @@ data-warehouse-project/
 ```
 ---
 ## 🚀 Project Requirements
-Building the Data Warehouse
-### Goal
+### Building the Data Warehouse
+#### Goal
 
 Created a modern PostgreSQL data warehouse to consolidate sales data and enable analytical reporting for better decision-making.
 
-### Specifications
+#### Specifications
 
 - **Data Sources:** Import data from two source systems (ERP and CRM) as CSV files.
 
