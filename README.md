@@ -57,12 +57,11 @@ data-warehouse-project/
 └── LICENSE  # License information for the repository
 ```
 ---
-<!-- 
 ## 🚀 Project Requirements
 Building the Data Warehouse
 ### Goal
 
-Create a modern SQL Server data warehouse to consolidate sales data and enable analytical reporting for better decision-making.
+Created a modern PostgreSQL data warehouse to consolidate sales data and enable analytical reporting for better decision-making.
 
 ### Specifications
 
@@ -77,7 +76,7 @@ Create a modern SQL Server data warehouse to consolidate sales data and enable a
 - **Documentation**: Provide clear documentation of the data model for business and analytics teams.
 
 ---
-
+<!-- 
 ### BI: Analytics & Reporting (Data Analysis)
 #### Goal
 
@@ -89,8 +88,8 @@ Generate SQL-based insights on:
 - **Sales Trends**
 
 These insights provide stakeholders with key business metrics for informed decision-making.
+---
 -->
-
 
 ## 👨‍💻 About Me
 
