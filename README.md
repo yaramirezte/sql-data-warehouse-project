@@ -1,9 +1,9 @@
-# SQL Data Warehouse & Analytics Project
+# SQL Data Warehouse & Analytics Project (PostgreSQL)
 
 Welcome to my **SQL Data Warehouse & Analytics Project** 🚀  
-This repository demonstrates the design and implementation of a **SQL-based data warehouse**, including data ingestion, transformation, modeling, and analytical queries.  
+This project demonstrates the design and implementation of a **PostgreSQL-based data warehouse**, covering data ingestion, transformation, modeling, and analytical queries.  
 
-Designed as a **portfolio project**, it highlights practical skills in **SQL, ETL, and data modeling**, following industry best practices for data engineering and analytics.
+It highlights practical skills in **SQL, ETL pipelines, and data modeling**, following industry best practices for data engineering and analytics.
 
 ---
 
@@ -55,9 +55,10 @@ The project involves:
 
 ## 🛠️ Tools & Technologies
 
-- **PostgreSQL (pgAdmin 4)**    
-- **Draw.io** for architecture and data flow diagrams  
-- **Git & GitHub** for version control  
+- **Database:** PostgreSQL (pgAdmin 4)
+- **Data Modeling & Diagrams:** Draw.io
+- **Version Control:** Git & GitHub
+- **SQL Skills:** ETL pipelines, data cleaning, transformations, fact & dimension tables, star schema design  
 
 ---
 
